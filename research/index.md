@@ -5,18 +5,21 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-microscope" %}Selected Publications
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ここでは、採択率が40%未満のトップクラス国際会議および、インパクトファクターが5を超える学術誌論文の一部のみを掲載しています。全論文リストについては、各メンバーの学術ホームページをご参照ください。
+
+Here, we only present a selection of publications from top-tier international conferences (acceptance rate below 40%) and journals (impact factor above 5). For the full list of publications, please visit each member’s academic homepage.
 
 {% include section.html %}
 
+<div style="display:none">
 ## Highlighted
 
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
+</div>
 
 ## All
 
