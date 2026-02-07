@@ -1,10 +1,11 @@
 ---
 ---
 
-# Lab Website Template
+# CVGymとは？
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
+日本で修士・博士課程に在籍する学生や若手教員、そしてコンピュータビジョン／人工知能研究に志を持つ仲間をつなぐのがCVGymです。オンラインで知見を共有し、互いに支え合いながら、よりインパクトのある研究成果を生み出すことを目指します。
+
+CV Gym connects master’s/PhD students and early-career researchers in Japan, along with anyone driven by a vision for Computer Vision and AI. Through this online platform, we share knowledge, mentor one another, and collaborate to create research with greater impact.
 
 {%
   include button.html
