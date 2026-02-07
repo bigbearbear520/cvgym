@@ -4,7 +4,6 @@ nav:
   order: 1
   tooltip: Published works
 ---
-
 # {% include icon.html icon="fa-solid fa-microscope" %}Selected Publications
 
 ここでは、採択率が40%未満のトップクラス国際会議および、インパクトファクターが5を超える学術誌論文の一部のみを掲載しています。全論文リストについては、各メンバーの学術ホームページをご参照ください。
