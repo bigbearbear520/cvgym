@@ -14,15 +14,25 @@
 - id: 10.1016/j.patcog.2024.110317
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320324000682-ga1.jpg
 - id: 10.1016/j.knosys.2024.111442
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705124000777-gr1.jpg
 - id: 10.1016/j.patcog.2023.109998
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320323006969-ga1.jpg
 - id: 10.1016/j.eswa.2023.120371
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417423008734-gr2.jpg
 - id: 10.1007/s41095-022-0293-5
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs41095-022-0293-5/MediaObjects/41095_2022_293_Fig1_HTML.jpg
 - id: 10.1016/j.knosys.2022.109549
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705122007808-gr1.jpg
 - id: 10.1016/j.patcog.2022.108716
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320322001972-ga1.jpg
 - id: 10.1109/TIP.2020.3036745
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWR2L1Jx13LD24eFRDam-QyGMYyO-jKE5__Q&s
 - id: 10.1007/s41095-020-0166-8
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhysrsjpGhI-QdnF9t5kqXPVCaK1BmMXulg&s
 - id: 10.1016/j.patcog.2026.113095
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320326000580-ga1.jpg
 - id: 10.1109/TVCG.2025.3577807
+  image: https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/diverse-code-query-learning-for-speech-driven-facial-animation-3.png
 - title: Multi-scale Template Matching with Scalable Diversity Similarity in Unconstrained Environment
   authors:
     - Yi Zhang
@@ -32,6 +42,7 @@
   date: 2019-09-09
   link: https://arxiv.org/abs/1907.01150
 - title: Fast Affine Template Matching over Galois Field
+  image: https://www.scv.cis.iwate-u.ac.jp/wordpress/research/projects/image2.jpg
   authors:
     - Chao Zhang
     - Takuya Akashi
@@ -39,6 +50,7 @@
   date: 2015-09-07
   link: https://www.bmva-archive.org.uk/bmvc/2015/papers/paper121/paper121.pdf
 - title: Dataset Distillation via Vision-Language Category Prototype
+  image: https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/dataset-distillation-via-vision-language-category-prototype-2.png
   authors:
     - Yawen Zou
     - Guang Li
