@@ -24,6 +24,7 @@
   publisher: Knowledge-Based Systems
   date: '2026-02-01'
   link: https://doi.org/hbnw8f
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705125021689-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.patcog.2025.112770
@@ -39,6 +40,7 @@
   publisher: Pattern Recognition
   date: '2026-04-01'
   link: https://doi.org/hbnw8x
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320325014335-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TKDE.2025.3592126
