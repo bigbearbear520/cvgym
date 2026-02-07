@@ -29,7 +29,7 @@ We study computer vision and machine learning with a strong emphasis on anomaly 
 
 {%
   include feature.html
-  image="images/projects.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -52,7 +52,7 @@ Our projects translate core ideas into practical systems and reproducible resear
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -77,7 +77,7 @@ We are a community of professors, early-career researchers, and students working
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
