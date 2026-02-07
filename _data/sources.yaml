@@ -14,5 +14,31 @@
 - id: 10.1016/j.patcog.2022.108716
 - id: 10.1109/TIP.2020.3036745
 - id: 10.1007/s41095-020-0166-8
+- id: 10.1016/j.patcog.2026.113095
+- id: 10.1109/TVCG.2025.3577807
 - title: Multi-scale Template Matching with Scalable Diversity Similarity in Unconstrained Environment
-#- id: arxiv:1806.05726
+  authors:
+    - Yi Zhang
+    - Chao Zhang
+    - Takuya Akashi
+  publisher: The British Machine Vision Conference (BMVC)
+  date: 2019-09-09
+  link: https://arxiv.org/abs/1907.01150
+- title: Fast Affine Template Matching over Galois Field
+  authors:
+    - Chao Zhang
+    - Takuya Akashi
+  publisher: The British Machine Vision Conference (BMVC)
+  date: 2015-09-07
+  link: https://www.bmva-archive.org.uk/bmvc/2015/papers/paper121/paper121.pdf
+- title: Dataset Distillation via Vision-Language Category Prototype
+  authors:
+    - Yawen Zou
+    - Guang Li
+    - Duo Su
+    - Zi Wang
+    - Jun Yu
+    - Chao Zhang
+  publisher: IEEE/CVF International Conference on Computer Vision (ICCV), Highlight
+  date: 2025-10-19
+  link: https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype
