@@ -13,13 +13,6 @@ Here, we only present a selection of publications from top-tier international co
 
 {% include section.html %}
 
-<div style="display:none">
-## Highlighted
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-</div>
-
 ## All
 
 {% include search-box.html %}
