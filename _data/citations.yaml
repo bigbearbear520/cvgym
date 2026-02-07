@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patcog.2026.113097
+- id: 10.1016/j.patcog.2026.113097
   title: Consensus-aware sparse subspace clustering via coreset selection
   authors:
   - Katsuya Hotta
@@ -9,6 +9,7 @@
   publisher: Pattern Recognition
   date: '2026-07-01'
   link: https://doi.org/hbnw8c
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320326000609-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.knosys.2025.115133
