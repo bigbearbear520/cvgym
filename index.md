@@ -29,7 +29,7 @@ We study computer vision and machine learning with a strong emphasis on anomaly 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="research"
   title="Our Research"
   text=text
