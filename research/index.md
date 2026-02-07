@@ -15,7 +15,6 @@ Here, we only present a selection of publications from top-tier international co
 
 <div style="display:none">
 ## Highlighted
-
 {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
 {% include section.html %}
