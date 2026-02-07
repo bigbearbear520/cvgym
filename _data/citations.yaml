@@ -1,1 +1,69 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1016/j.patcog.2026.113097
+  title: Consensus-aware sparse subspace clustering via coreset selection
+  authors:
+  - Katsuya Hotta
+  - Chunzhi Gu
+  - Chao Zhang
+  publisher: Pattern Recognition
+  date: '2026-07-01'
+  link: https://doi.org/hbnw8c
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.knosys.2025.115133
+  title: Few-shot human action anomaly detection via a unified contrastive learning
+    framework
+  authors:
+  - Koichiro Kamide
+  - Shunsuke Sakai
+  - Shun Maeda
+  - Chunzhi Gu
+  - Chao Zhang
+  publisher: Knowledge-Based Systems
+  date: '2026-02-01'
+  link: https://doi.org/hbnw8f
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2025.112770
+  title: Frequency-guided multi-level human action anomaly detection with normalizing
+    flows
+  authors:
+  - Shun Maeda
+  - Chunzhi Gu
+  - Jun Yu
+  - Shogo Tokai
+  - Shangce Gao
+  - Chao Zhang
+  publisher: Pattern Recognition
+  date: '2026-04-01'
+  link: https://doi.org/hbnw8x
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TKDE.2025.3592126
+  title: 'Learning to Discriminate While Contrasting: Combating False Negative Pairs
+    With Coupled Contrastive Learning for Incomplete Multi-View Clustering'
+  authors:
+  - Yu Ding
+  - Katsuya Hotta
+  - Chunzhi Gu
+  - Ao Li
+  - Jun Yu
+  - Chao Zhang
+  publisher: IEEE Transactions on Knowledge and Data Engineering
+  date: '2025-10-01'
+  link: https://doi.org/hbnw8z
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.knosys.2025.113020
+  title: Crested ibis algorithm and its application in human-powered aircraft design
+  authors:
+  - Yuefeng Xu
+  - Rui Zhong
+  - Chao Zhang
+  - Jun Yu
+  publisher: Knowledge-Based Systems
+  date: '2025-02-01'
+  link: https://doi.org/hbnw83
+  plugin: sources.py
+  file: sources.yaml
