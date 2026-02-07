@@ -67,3 +67,140 @@
   link: https://doi.org/hbnw83
   plugin: sources.py
   file: sources.yaml
+- id: 10.1016/j.aej.2024.11.035
+  title: Efficient multiplayer battle game optimizer for numerical optimization and
+    adversarial robust neural architecture search
+  authors:
+  - Rui Zhong
+  - Yuefeng Xu
+  - Chao Zhang
+  - Jun Yu
+  publisher: Alexandria Engineering Journal
+  date: '2025-02-01'
+  link: https://doi.org/hbnw97
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.aej.2024.09.109
+  title: Hierarchical RIME algorithm with multiple search preferences for extreme
+    learning machine training
+  authors:
+  - Rui Zhong
+  - Chao Zhang
+  - Jun Yu
+  publisher: Alexandria Engineering Journal
+  date: '2025-01-01'
+  link: https://doi.org/hbnw98
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2024.110317
+  title: Orientation-aware leg movement learning for action-driven human motion prediction
+  authors:
+  - Chunzhi Gu
+  - Chao Zhang
+  - Shigeru Kuriyama
+  publisher: Pattern Recognition
+  date: '2024-06-01'
+  link: https://doi.org/hbnw99
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.knosys.2024.111442
+  title: A multi-in and multi-out dendritic neuron model and its optimization
+  authors:
+  - Yu Ding
+  - Jun Yu
+  - Chunzhi Gu
+  - Shangce Gao
+  - Chao Zhang
+  publisher: Knowledge-Based Systems
+  date: '2024-02-01'
+  link: https://doi.org/hbnxbb
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2023.109998
+  title: Learning disentangled representations for controllable human motion prediction
+  authors:
+  - Chunzhi Gu
+  - Jun Yu
+  - Chao Zhang
+  publisher: Pattern Recognition
+  date: '2024-02-01'
+  link: https://doi.org/hbnxbc
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.eswa.2023.120371
+  title: "Teacher\u2013student network for 3D point cloud anomaly detection with few\
+    \ normal samples"
+  authors:
+  - Jianjian Qin
+  - Chunzhi Gu
+  - Jun Yu
+  - Chao Zhang
+  publisher: Expert Systems with Applications
+  date: '2023-10-01'
+  link: https://doi.org/hbnxbd
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s41095-022-0293-5
+  title: 'PMSSC: Parallelizable multi-subset based self-expressive model for subspace
+    clustering'
+  authors:
+  - Katsuya Hotta
+  - Takuya Akashi
+  - Shogo Tokai
+  - Chao Zhang
+  publisher: Computational Visual Media
+  date: '2023-09-01'
+  link: https://doi.org/hbnxbf
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.knosys.2022.109549
+  title: Learning to predict diverse human motions from a single image via mixture
+    density networks
+  authors:
+  - Chunzhi Gu
+  - Yan Zhao
+  - Chao Zhang
+  publisher: Knowledge-Based Systems
+  date: '2022-10-01'
+  link: https://doi.org/hbnxbg
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1016/j.patcog.2022.108716
+  title: Example-based color transfer with Gaussian mixture modeling
+  authors:
+  - Chunzhi Gu
+  - Xuequan Lu
+  - Chao Zhang
+  publisher: Pattern Recognition
+  date: '2022-09-01'
+  link: https://doi.org/hbnxbh
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1109/TIP.2020.3036745
+  title: Blur Removal Via Blurred-Noisy Image Pair
+  authors:
+  - Chunzhi Gu
+  - Xuequan Lu
+  - Ying He
+  - Chao Zhang
+  publisher: IEEE Transactions on Image Processing
+  date: '2021-01-01'
+  link: https://doi.org/gkzd7w
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1007/s41095-020-0166-8
+  title: 'G2MF-WA: Geometric multi-model fitting with weakly annotated data'
+  authors:
+  - Chao Zhang
+  - Xuequan Lu
+  - Katsuya Hotta
+  - Xi Yang
+  publisher: Computational Visual Media
+  date: '2020-06-01'
+  link: https://doi.org/gnfhqd
+  plugin: sources.py
+  file: sources.yaml
+- title: Multi-scale Template Matching with Scalable Diversity Similarity in Unconstrained
+    Environment
+  plugin: sources.py
+  file: sources.yaml
