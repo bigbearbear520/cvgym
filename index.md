@@ -37,8 +37,8 @@ We study computer vision and machine learning with a strong emphasis on anomaly 
 
 {% capture text %}
 
-私たちのプロジェクトは、研究アイデアを再現可能な形で実装・検証し、成果へつなげることを重視します。スケッチ誘導による局所3D形状編集、周波数情報を用いた人物動作の異常検知、音声駆動の顔アニメーションなど、実データに根ざしたテーマに取り組みます。
-Our projects translate core ideas into practical systems and reproducible research: sketch-guided local 3D shape editing, frequency-guided human action anomaly detection, and speech-driven facial animation, among others. We prioritize open, verifiable progress—clear problem statements, strong baselines, and publishable outcomes. 
+私たちのプロジェクトは、研究アイデアを再現可能な形で実装・検証し、成果へつなげることを重視します。たとえば、製造現場における外観検査・部品不良の異常検知、周波数情報を用いた人物動作の異常検知、音声駆動の顔アニメーションなど、実データに根ざしたテーマに取り組みます。
+Our projects translate core ideas into practical systems and reproducible research—for example, AI-driven anomaly detection for industrial visual inspection and defective parts, frequency-guided human action anomaly detection, and speech-driven facial animation. We prioritize open, verifiable progress—clear problem statements, strong baselines, and publishable outcomes.
 {%
   include button.html
   link="projects"
