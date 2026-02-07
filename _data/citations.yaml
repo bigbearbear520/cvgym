@@ -121,6 +121,7 @@
   publisher: Knowledge-Based Systems
   date: '2024-02-01'
   link: https://doi.org/hbnxbb
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705124000777-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.patcog.2023.109998
@@ -132,6 +133,7 @@
   publisher: Pattern Recognition
   date: '2024-02-01'
   link: https://doi.org/hbnxbc
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320323006969-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.eswa.2023.120371
@@ -145,6 +147,7 @@
   publisher: Expert Systems with Applications
   date: '2023-10-01'
   link: https://doi.org/hbnxbd
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0957417423008734-gr2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s41095-022-0293-5
@@ -158,6 +161,7 @@
   publisher: Computational Visual Media
   date: '2023-09-01'
   link: https://doi.org/hbnxbf
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1007%2Fs41095-022-0293-5/MediaObjects/41095_2022_293_Fig1_HTML.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.knosys.2022.109549
@@ -170,6 +174,7 @@
   publisher: Knowledge-Based Systems
   date: '2022-10-01'
   link: https://doi.org/hbnxbg
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0950705122007808-gr1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.patcog.2022.108716
@@ -181,6 +186,7 @@
   publisher: Pattern Recognition
   date: '2022-09-01'
   link: https://doi.org/hbnxbh
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320322001972-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TIP.2020.3036745
@@ -193,6 +199,7 @@
   publisher: IEEE Transactions on Image Processing
   date: '2021-01-01'
   link: https://doi.org/gkzd7w
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWR2L1Jx13LD24eFRDam-QyGMYyO-jKE5__Q&s
   plugin: sources.py
   file: sources.yaml
 - id: 10.1007/s41095-020-0166-8
@@ -205,6 +212,7 @@
   publisher: Computational Visual Media
   date: '2020-06-01'
   link: https://doi.org/gnfhqd
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRhysrsjpGhI-QdnF9t5kqXPVCaK1BmMXulg&s
   plugin: sources.py
   file: sources.yaml
 - id: 10.1016/j.patcog.2026.113095
@@ -216,6 +224,7 @@
   publisher: Pattern Recognition
   date: '2026-07-01'
   link: https://doi.org/hbnxcv
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0031320326000580-ga1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: 10.1109/TVCG.2025.3577807
@@ -227,6 +236,7 @@
   publisher: IEEE Transactions on Visualization and Computer Graphics
   date: '2025-10-01'
   link: https://doi.org/hbnxcw
+  image: https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/diverse-code-query-learning-for-speech-driven-facial-animation-3.png
   plugin: sources.py
   file: sources.yaml
 - title: Multi-scale Template Matching with Scalable Diversity Similarity in Unconstrained
@@ -241,6 +251,7 @@
   plugin: sources.py
   file: sources.yaml
 - title: Fast Affine Template Matching over Galois Field
+  image: https://www.scv.cis.iwate-u.ac.jp/wordpress/research/projects/image2.jpg
   authors:
   - Chao Zhang
   - Takuya Akashi
@@ -250,6 +261,7 @@
   plugin: sources.py
   file: sources.yaml
 - title: Dataset Distillation via Vision-Language Category Prototype
+  image: https://moonlight-paper-snapshot.s3.ap-northeast-2.amazonaws.com/arxiv/dataset-distillation-via-vision-language-category-prototype-2.png
   authors:
   - Yawen Zou
   - Guang Li
