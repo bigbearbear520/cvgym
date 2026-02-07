@@ -1,23 +1,12 @@
 ---
 ---
 
-# CVGymとは？
+# CVGYMとは？
 
-日本で修士・博士課程に在籍する学生や若手教員、そしてコンピュータビジョン／人工知能研究に志を持つ仲間をつなぐのがCVGymです。オンラインで知見を共有し、互いに支え合いながら、よりインパクトのある研究成果を生み出すことを目指します。
+日本で修士・博士課程に在籍する学生や若手教員、そしてコンピュータビジョン／人工知能研究に志を持つ仲間をつなぐのがCVGYMです。オンラインで知見を共有し、互いに支え合いながら、よりインパクトのある研究成果を生み出すことを目指します。
 
-CV Gym connects master’s/PhD students and early-career researchers in Japan, along with anyone driven by a vision for Computer Vision and AI. Through this online platform, we share knowledge, mentor one another, and collaborate to create research with greater impact.
+CVGYM connects master’s/PhD students and early-career researchers in Japan, along with anyone driven by a vision for Computer Vision and AI. Through this online platform, we share knowledge, mentor one another, and collaborate to create research with greater impact.
 
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
 
 {% include section.html %}
 
