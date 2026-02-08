@@ -5,7 +5,7 @@
   link: https://zou-yawen.github.io/DD_via_vision-language/
   description: 本研究では、画像プロトタイプとテキストプロトタイプを共同学習するビジョン・ランゲージ型のDataset Distillationを提案し、文脈的な意味情報を取り込むことで汎化性能を高めます。
   tags:
-    - code
+    - software
 
 - title: Few-shot Human Action Anomaly Detection via a Unified Contrastive Learning Framework
   subtitle: Knowledge-Based Systems, 2026
@@ -14,7 +14,7 @@
   link: https://github.com/koichiro-kamide/Few-shotHAAD
   description: 本研究は、行動カテゴリごとに別モデルを学習する必要がない、統一型の少数例（few-shot）Human Action Anomaly Detection手法を提案します。
   tags:
-    - code
+    - software
     
 - title: Tactile Paving Detection and Tracking using Tenji10K Dataset
   subtitle: Tenji10K Dataset
@@ -23,7 +23,7 @@
   link: https://www.dropbox.com/scl/fi/3nf8ut6s7gmysdfwb6plr/Tenji10K.zip?rlkey=14tvoccd5kvs7kqh9ynp9vlww&dl=1
   description: 本研究では、触知ブロック検出手法を公平に比較できる公開データセット Tenji10K（日本で撮影した一人称画像 10K枚／20シーケンス）を構築しました。
   tags:
-    - dataset
+    - software
     
 - title: 3DKeyAD: High-Resolution 3D Point Cloud Anomaly Detection via Keypoint-Guided Point Clustering
   subtitle: 
@@ -32,4 +32,4 @@
   link: https://github.com/bigbearbear520/3DKeyAD
   description: 高密度な3D点群に対し、複数の正常プロトタイプへ位置合わせした上で、クラスタ単位の差分解析により局所異常を高精度に特定する手法を提案します。
   tags:
-    - code
+    - software
