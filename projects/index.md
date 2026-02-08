@@ -7,10 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+こちらでプロジェクトのコードおよびデータベースを公開しています。ご不明な点がございましたら、GitHubでコメントを残すか、メールで著者までご連絡ください。We are making the project code and database publicly available here. If you have any questions, please leave a comment on GitHub or contact the author by email.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="code, dataset" %}
 
 {% include search-info.html %}
 
