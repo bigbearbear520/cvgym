@@ -7,29 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+CVGYM は、日本各地の教員・若手研究者・学生が集うコミュニティです。世代を超えたメンタリングと知見共有により、初学者は着実に力を伸ばし、経験者はよりインパクトのある研究・論文へ挑戦できる環境をつくります。 We are a community of professors, early-career researchers, and students working together across Japan. By sharing expertise and mentoring across career stages, we create an environment where newcomers can learn fast and experienced members can push toward high-impact publications.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
-{% include list.html data="members" component="portrait" filter="role != 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'professor'" %}
+{% include list.html data="members" component="portrait" filter="role == 'senior_student'" %}
+{% include list.html data="members" component="portrait" filter="role == 'student'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-{% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
