@@ -11,7 +11,7 @@ CVGYM は、日本各地の教員・若手研究者・学生が集うコミュ�
 
 
 {% include section.html %}
-## Professors
+## Professors/Researchers
 {% include list.html data="members" component="portrait" filter="role == 'professor'" %}
 
 ## Senior Students
