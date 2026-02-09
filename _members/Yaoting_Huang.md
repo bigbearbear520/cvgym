@@ -4,6 +4,6 @@ image: images/Yaoting_Huang.jpg
 role: student
 affiliation: University of Toyama
 aliases:
-  - Y. Huang
+  - Yaoting Huang
 links:
 ---
