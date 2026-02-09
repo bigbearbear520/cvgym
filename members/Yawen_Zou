@@ -42,21 +42,21 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>Chao Zhang | CVGYM</title>
+<title>Yawen Zou | CVGYM</title>
 
 <link rel="icon" href="/cvgym/images/icon.jpg">
 
-<meta name="title" content="Chao Zhang">
+<meta name="title" content="Yawen Zou">
 <meta name="description" content="-TRAIN YOUR VISION-. 一緒に楽しく研究しましょう！">
 
-<meta property="og:title" content="Chao Zhang">
+<meta property="og:title" content="Yawen Zou">
 <meta property="og:site_title" content="CVGYM">
 <meta property="og:description" content="-TRAIN YOUR VISION-. 一緒に楽しく研究しましょう！">
 <meta property="og:url" content="https://bigbearbear520.github.io/cvgym">
 <meta property="og:image" content="/cvgym/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
-<meta property="twitter:title" content="Chao Zhang">
+<meta property="twitter:title" content="Yawen Zou">
 <meta property="twitter:description" content="-TRAIN YOUR VISION-. 一緒に楽しく研究しましょう！">
 <meta property="twitter:url" content="https://bigbearbear520.github.io/cvgym">
 <meta property="twitter:card" content="summary_large_image">
@@ -72,9 +72,9 @@
     
       "@type": "WebSite",
     
-    "name": "Chao Zhang",
+    "name": "Yawen Zou",
     "description": "-TRAIN YOUR VISION-. 一緒に楽しく研究しましょう！",
-    "headline": "Chao Zhang",
+    "headline": "Yawen Zou",
     "publisher": {
       "@type": "Organization",
       "logo": { "@type": "ImageObject", "url": "/cvgym/images/icon.jpg" }
@@ -578,14 +578,14 @@
 >
   
 <div class="portrait-wrapper">
-  <a class="portrait" data-style="" aria-label="Chao Zhang">
+  <a class="portrait" data-style="" aria-label="Yawen Zou">
     
 
-    <img src="/cvgym/images/Chao_Zhang.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/cvgym/images/fallback.svg'; this.onerror = null;" />
+    <img src="/cvgym/images/Yawen_Zou.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/cvgym/images/fallback.svg'; this.onerror = null;" />
 
     
       <span class="portrait-name">
-        Chao Zhang
+        Yawen Zou
       </span>
     
 
@@ -608,7 +608,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://sites.google.com/view/chao-zhang/profile" data-tooltip="Home page" data-style="bare" aria-label="Home page">
+    <a class="button" href="https://zou-yawen.github.io/" data-tooltip="Home page" data-style="bare" aria-label="Home page">
       <i class="icon fa-solid fa-house-user"></i>
       
         <span>Home Page</span>
@@ -625,7 +625,7 @@
 
 
   <div class="button-wrapper">
-    <a class="button" href="https://orcid.org/0000-0002-0845-9217" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+    <a class="button" href="https://orcid.org/0009-0008-6605-1595" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
       <i class="icon fa-brands fa-orcid"></i>
       
         <span>ORCID</span>
@@ -648,8 +648,8 @@
 
 
 <p class="center">
-  <a href="/cvgym/research/?search=%22C.%20Zhang%22%20">
-    Search for Chao Zhang's papers on the Research page
+  <a href="/cvgym/research/?search=%22Y.%20Zou%22%20">
+    Search for Yawen Zou's papers on the Research page
   </a>
 </p>
 
@@ -657,8 +657,8 @@
 
 <!--
 <p class="center">
-  <a href="/cvgym/blog/?search=Chao%20Zhang">
-    See Chao Zhang's posts on the Blog page
+  <a href="/cvgym/blog/?search=Yawen%20Zou">
+    See Yawen Zou's posts on the Blog page
   </a>
 </p>
 -->
