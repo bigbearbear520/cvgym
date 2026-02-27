@@ -62,7 +62,7 @@
   date: 2025-10-19
   link: https://github.com/zou-yawen/Dataset-Distillation-via-Vision-Language-Category-Prototype
 - title: EVLF: Early Vision-Language Fusion for Generative Dataset Distillation
-  image: cvpr2026_1.jpg
+  image: images/cvpr2026_1.jpg
   authors:
     - Wenqi Cai
     - Yawen Zou
@@ -72,7 +72,7 @@
   publisher: IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
   date: 2026-06-03
 - title: InvAD: Inversion-based Reconstruction-Free Anomaly Detection with Diffusion Models
-  image: cvpr2026_2.jpg
+  image: images/cvpr2026_2.jpg
   authors:
     - Shunsuke Sakai
     - Xiangteng He
